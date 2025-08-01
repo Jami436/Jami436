@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 **Hi, I'm Muhammad Jami Ahad!**
 
-<!--
-**Jami436/Jami436** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*A Beginner AI Student, currently learning ML, DSA & Agentic AI.*
 
-Here are some ideas to get you started:
+📫 **How to reach me:** jamiahadarain@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔗 **Connect with me**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jami-ahad-a12977330)
+[![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram&logoColor=white)](https://www.instagram.com/jamigotnolife)
+
+---
+
+## 🛠️ **Languages & Tools**
+
+- Java (OOPs)
+- C
+- HTML (basics)
+- **VS Code**
+- **Figma**
+
+---
+
+ **Fun fact**
+Love to learn Machine Learning and AI 🤖
+
+---
+
+## 📊 **GitHub Stats**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jami436&show_icons=true&theme=radical"_
