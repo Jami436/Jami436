@@ -1,6 +1,6 @@
 # 👋 **Hi, I'm Muhammad Jami Ahad!**
 
-🎓 **A beginner AI student, currently learning ML, DSA & Agentic AI.**
+🎓 **A beginner AI student, currently learning Python, ML & DSA.**
 
 ---
 
