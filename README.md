@@ -12,20 +12,25 @@ Current focus areas:
 * **Type Safety:** Migrating Redis client logic to strict **Mypy Type Hinting** to improve maintainability ([PR #9557](https://github.com/omegaup/omegaup/pull/9557)).
 * **System Reliability:** Resolving technical debt within `stuff/cron` and `ai_editorial_worker` modules.
 
+---
+
 ### 🛠️ Tech Stack
 
-| Category | Tools |
-| :--- | :--- |
-| **Languages** | Python, Java, C |
-| **AI & Data Science**| NumPy, Pandas, Scikit-Learn |
-| **Backend & Reliability** | Redis, Mypy, Git |
+**Languages**
+[![My Skills](https://skillicons.dev/icons?i=py,java,c)](https://skillicons.dev)
+
+**AI & Data Science**
+[![My Skills](https://skillicons.dev/icons?i=numpy,pandas)](https://skillicons.dev)
+
+**Backend & Reliability**
+[![My Skills](https://skillicons.dev/icons?i=redis,git,vscode,figma)](https://skillicons.dev)
 
 ---
 
 ### 📈 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jami436&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jami436&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jami436&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" alt="Jami's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jami436&layout=compact&theme=radical&hide_border=true" width="48%" alt="Jami's Top Languages" />
 </p>
 
 ---
