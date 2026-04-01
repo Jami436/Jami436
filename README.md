@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Muhammad Jami Ahad!
 
-### 🤖 Aspiring AI Engineer | Backend Enthusiast | Open Source Contributor
+### 🤖 AI Student | Backend Developer | Open Source Contributor
 
 I am a 4th-semester Artificial Intelligence student passionate about bridging the gap between theoretical Machine Learning and production-ready backend systems. Currently, I am focusing on **Scalable Architecture**, **Automated Model Evaluation**, and **Static Analysis**.
 
