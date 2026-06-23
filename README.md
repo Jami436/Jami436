@@ -1,15 +1,13 @@
 # 👋 Hi, I'm Muhammad Jami Ahad
 
-### 🚀 AI Engineer in Progress | Backend Developer | Open Source Contributor
+### 🚀 Backend Developer | AI Engineer | Open Source Contributor
 
-I build **scalable backend systems** and integrate **AI into real-world applications**.
-My focus is on turning machine learning ideas into **production-ready, reliable systems**.
+I build **scalable backend systems** and develop **autonomous AI agents**. My focus is on turning machine learning models into **production-ready, reliable architecture** with clean, type-safe code.
 
-💡 Currently working on:
-
-* Scalable backend architectures
-* Automated ML evaluation systems
-* Clean, maintainable, type-safe codebases
+💡 Currently focusing on:
+* Production-ready backend architectures & container orchestration
+* Agentic AI workflows & multi-agent systems
+* Writing highly optimized, low-level & mathematical code from scratch
 
 ---
 
@@ -19,57 +17,30 @@ My focus is on turning machine learning ideas into **production-ready, reliable 
 
 ---
 
-## 🔭 GSoC 2026 Focus @ omegaUp
-
-### 📊 ML Evaluation System
-
-* Implementing **Mean Average Precision (MAP)** using `scikit-learn`
-* Refactoring recommendation engine for **standardized evaluation metrics**
-* Improving model performance tracking and reliability
-
-### ⚙️ Backend Stability & Reliability
-
-* Migrating legacy Redis logic → **strict type-safe architecture using Mypy**
-* Reducing runtime errors and improving maintainability
-* Contributing to production-level backend improvements
-
-### 🧹 Code Quality & Technical Debt
-
-* Resolving critical TODOs in:
-
-  * `stuff/cron`
-  * `ai_editorial_worker`
-* Improving modularity and long-term scalability
-
----
-
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Languages
+Python • Java • C • SQL 
 
-Python • Java • C
-
-### 🤖 AI & Data
-
-Scikit-learn • NumPy • Pandas
+### 🤖 AI & Data Engineering
+NumPy • Pandas • Fetch.ai • Google ADK 2.0 • Google AI Studio • Gemini API
 
 ### ⚙️ Backend & DevOps
-
-Redis • Mypy • Git
+Next.js • React • Node.js • Tailwind CSS • Redis • Mypy • Git • GitHub Actions
 
 ---
 
 ## 📌 Featured Projects
 
-### 🔹 Jarvis Desktop Assistant
+### 🤖 Autonomous Agents & Hackathons
+* **Agentic Workflows:** Developed and deployed multi-agent systems using **Fetch.ai** and **Google ADK 2.0** for cybersecurity automation, DevOps pipelines, and e-commerce rescue operations across hackathons like *PI Innovate*, *CortexX*, and *AI Seekho*.
+* **Zero-Trust-Web-Guardian:** A collaborative security project focused on secure backend infrastructure and real-time threat mitigation.
 
-* Voice-controlled assistant built with Python
-* Automation-focused system with modular design
+### 🧠 Deep Learning From Scratch
+* Built a modular, object-oriented deep learning framework completely from scratch utilizing **NumPy** for vectorization, forward/backward propagation matrix math, and gradient descent optimization—entirely bypassing high-level ML libraries to master foundational AI mechanics.
 
-### 🔹 Code Buddy
-
-* Developer assistant tool to improve coding workflow
-* Built with focus on usability and productivity
+### 🏛️ Open Source Contributions
+* **omegaUp:** Contributed to internal tooling, refactoring legacy Redis logic into strict type-safe code using Mypy, and resolving critical debt in background cron jobs and worker nodes.
 
 ---
 
@@ -84,8 +55,8 @@ Redis • Mypy • Git
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: https://www.linkedin.com/in/jami-ahad-a12977330
-* 📧 Email: [jamiahadarain@gmail.com](mailto:jamiahadarain@gmail.com)
+* 💼 LinkedIn: [linkedin.com/in/jami-ahad-a12977330](https://www.linkedin.com/in/jami-ahad-a12977330)
+* 📧 Email: jamiahadarain@gmail.com
 
 ---
 
