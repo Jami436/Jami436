@@ -57,7 +57,7 @@ Next.js • React • Node.js • Tailwind CSS • Redis • Mypy • Git • Gi
 
 * LinkedIn: [linkedin.com/in/jami-ahad-a12977330](https://www.linkedin.com/in/jami-ahad-a12977330)
 * Email: jamiahadarain@gmail.com
-* Ph: +923063250169
+* Ph: +92306-3250169
 
 ---
 
