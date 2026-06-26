@@ -42,17 +42,6 @@ Next.js • React • Node.js • Tailwind CSS • Redis • Mypy • Git • Gi
 ### Open Source Contributions
 * **omegaUp:** Contributed to internal tooling, refactoring legacy Redis logic into strict type-safe code using Mypy, and resolving critical debt in background cron jobs and worker nodes.
 
----
-
-## GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jami436&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jami436&layout=compact&theme=radical&hide_border=true" width="48%" />
-</p>
-
----
-
 ## Connect With Me
 
 * LinkedIn: [linkedin.com/in/jami-ahad-a12977330](https://www.linkedin.com/in/jami-ahad-a12977330)
