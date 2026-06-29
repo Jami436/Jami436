@@ -78,8 +78,6 @@ Built a modular, object-oriented deep learning framework completely from scratch
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jami436&show_icons=true&theme=tokyonight)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=Jami436&theme=tokyonight)
 
 ---
