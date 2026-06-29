@@ -80,13 +80,11 @@ Built a modular, object-oriented deep learning framework completely from scratch
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jami436&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jami436E&layout=compact&theme=tokyonight)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=Jami436&theme=tokyonight)
 
 ---
 
-## Activity Graph *(Optional)*
+## Activity Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jami436&theme=tokyo-night)
 
