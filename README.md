@@ -19,7 +19,7 @@ I build **scalable backend systems** and develop **autonomous AI agents**. My fo
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
 - **Distributed Systems** — scalability, fault tolerance, and service communication
 - **Docker & Kubernetes** — containerization, orchestration, and deployment strategies
@@ -31,7 +31,7 @@ I build **scalable backend systems** and develop **autonomous AI agents**. My fo
 
 ---
 
-## 🌐 Portfolio Website
+## Portfolio Website
 
 **[View My Portfolio →](https://portfolio-website-eight-omega-98.vercel.app/)**
 
@@ -55,19 +55,16 @@ I build **scalable backend systems** and develop **autonomous AI agents**. My fo
 **Backend**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=fastapi&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 **DevOps & Tools**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Mypy](https://img.shields.io/badge/Mypy-2A6DB2?style=flat-square)
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### Autonomous Agents & Hackathons
 - **Agentic Workflows:** Developed and deployed multi-agent systems using **Fetch.ai** and **Google ADK 2.0** for cybersecurity automation, DevOps pipelines, and e-commerce rescue operations across hackathons like **PI Innovate**, **CortexX**, and **AI Seekho**.
@@ -93,7 +90,7 @@ Built a modular, object-oriented deep learning framework completely from scratch
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -124,12 +121,6 @@ why it looked "broken" on your profile, not a typo in your URL. Options:
 ---
 
 <div align="center">
-
-### 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/Jami436/Jami436/output/github-contribution-grid-snake.svg" width="100%"/>
-
-<sub>Animated snake that "eats" your contribution graph — set up in ~1 minute, see <code>snake.yml</code> below.</sub>
 
 </div>
 
