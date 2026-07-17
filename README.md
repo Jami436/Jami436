@@ -33,7 +33,7 @@ I build **scalable backend systems** and develop **autonomous AI agents**. My fo
 
 ## Portfolio Website
 
-**[View My Portfolio →](https://portfolio-website-eight-omega-98.vercel.app/)**
+**[View My Portfolio](https://portfolio-website-eight-omega-98.vercel.app/)**
 
 ---
 
