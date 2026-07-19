@@ -78,7 +78,7 @@ Built a modular, object-oriented deep learning framework completely from scratch
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 <div align="center">
 
