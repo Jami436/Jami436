@@ -21,13 +21,13 @@ I build **scalable backend systems** and develop **autonomous AI agents**. My fo
 
 ## Currently Learning
 
-- **Distributed Systems** — scalability, fault tolerance, and service communication
-- **Docker & Kubernetes** — containerization, orchestration, and deployment strategies
-- **Advanced Backend Engineering** — asynchronous programming, caching, message queues, and API optimization
-- **LLM Engineering & Agentic AI** — multi-agent orchestration, tool calling, memory, and autonomous workflows
-- **Deep Learning Mathematics** — implementing neural networks and optimization algorithms from first principles
-- **System Design** — designing scalable APIs, databases, and cloud-native services
-- **Full-Stack Development** — building modern web applications with responsive frontends, scalable backend APIs, and database integration
+- **Distributed Systems** — scalability, fault tolerance, and service communication.
+- **Docker & Kubernetes** — containerization, orchestration, and deployment strategies.
+- **Advanced Backend Engineering** — asynchronous programming, caching, message queues, and API optimization.
+- **LLM Engineering & Agentic AI** — multi-agent orchestration, tool calling, memory, and autonomous workflows.
+- **Deep Learning Mathematics** — implementing neural networks and optimization algorithms from first principles.
+- **System Design** — designing scalable APIs, databases, and cloud-native services.
+- **Full-Stack Development** — building modern web applications with responsive frontends, scalable backend APIs, and database integration.
 
 ---
 
