@@ -13,9 +13,9 @@
 I build **scalable backend systems** and develop **autonomous AI agents**. My focus is on turning machine learning models into **production-ready, reliable architecture** with clean, type-safe code.
 
 ### Currently focusing on
-- Production-ready backend architectures & container orchestration
-- Agentic AI workflows & multi-agent systems
-- Writing highly optimized, low-level & mathematical code from scratch
+- Production-ready backend architectures & container orchestration.
+- Agentic AI workflows & multi-agent systems.
+- Writing highly optimized, low-level & mathematical code from scratch.
 
 ---
 
