@@ -6,34 +6,35 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=650&lines=Building+scalable+backend+systems...;Developing+autonomous+AI+agents...;Turning+ML+models+into+production+code...;Writing+low-level+math+from+scratch..." alt="Typing SVG" />
 </a>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-website-eight-omega-98.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jami-ahad-a12977330)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jamiahadarain@gmail.com)
+
 </div>
 
 ---
 
-I build **scalable backend systems** and develop **autonomous AI agents**. My focus is on turning machine learning models into **production-ready, reliable architecture** with clean, type-safe code.
+## About Me
 
-### Currently focusing on
-- Production-ready backend architectures & container orchestration.
-- Agentic AI workflows & multi-agent systems.
-- Writing highly optimized, low-level & mathematical code from scratch.
+I build **scalable backend systems** and **autonomous AI agents**, turning machine learning models into **production-ready, reliable architecture** with clean, type-safe code.
 
----
-
-## Currently Learning
-
-- **Distributed Systems** — scalability, fault tolerance, and service communication.
-- **Docker & Kubernetes** — containerization, orchestration, and deployment strategies.
-- **Advanced Backend Engineering** — asynchronous programming, caching, message queues, and API optimization.
-- **LLM Engineering & Agentic AI** — multi-agent orchestration, tool calling, memory, and autonomous workflows.
-- **Deep Learning Mathematics** — implementing neural networks and optimization algorithms from first principles.
-- **System Design** — designing scalable APIs, databases, and cloud-native services.
-- **Full-Stack Development** — building modern web applications with responsive frontends, scalable backend APIs, and database integration.
+- 🏗️ Production-grade backend architectures and container orchestration
+- 🤖 Agentic AI workflows and multi-agent systems
+- 🧮 Low-level, mathematical code written from scratch
 
 ---
 
-## Portfolio Website
+## Featured Projects
 
-**[View My Portfolio](https://portfolio-website-eight-omega-98.vercel.app/)**
+| Project | What it is | Stack |
+|---|---|---|
+| **Autonomous Agent Systems** | Multi-agent systems for cybersecurity automation, DevOps pipelines, and e-commerce rescue operations, built at **PI Innovate**, **CortexX**, and **AI Seekho** hackathons | Fetch.ai, Google ADK 2.0, Gemini API |
+| **Zero-Trust-Web-Guardian** | Collaborative security project focused on secure backend infrastructure and real-time threat mitigation | Backend, Security |
+| **Deep Learning From Scratch** | Modular, object-oriented deep learning framework with vectorized forward/backward propagation, matrix calculus, and gradient descent, with no high-level ML libraries | Python, NumPy |
+
+## Open Source
+
+- **[omegaUp](https://github.com/omegaup/omegaup)** — Refactored legacy Redis logic into strictly type-checked code with **Mypy**, reducing technical debt in background cron jobs and worker nodes and improving maintainability.
 
 ---
 
@@ -52,7 +53,7 @@ I build **scalable backend systems** and develop **autonomous AI agents**. My fo
 ![Google AI Studio](https://img.shields.io/badge/Google_AI_Studio-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Fetch.ai](https://img.shields.io/badge/Fetch.ai-6B4EFF?style=flat-square)
 
-**Backend**
+**Backend & Web**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=fastapi&logoColor=white)
@@ -64,33 +65,18 @@ I build **scalable backend systems** and develop **autonomous AI agents**. My fo
 
 ---
 
-## Featured Projects
+## 📚 Currently Learning
 
-### Autonomous Agents & Hackathons
-- **Agentic Workflows:** Developed and deployed multi-agent systems using **Fetch.ai** and **Google ADK 2.0** for cybersecurity automation, DevOps pipelines, and e-commerce rescue operations across hackathons like **PI Innovate**, **CortexX**, and **AI Seekho**.
-- **Zero-Trust-Web-Guardian:** A collaborative security project focused on secure backend infrastructure and real-time threat mitigation.
-
-### Deep Learning From Scratch
-Built a modular, object-oriented deep learning framework completely from scratch utilizing **NumPy** for vectorization, forward/backward propagation, matrix calculus, and gradient descent optimization — entirely bypassing high-level ML libraries to master the mathematical foundations of deep learning.
-
-### Open Source Contributions
-- **omegaUp:** Contributed to internal tooling by refactoring legacy Redis logic into strict type-safe code using **Mypy**, resolving technical debt in background cron jobs and worker nodes, and improving maintainability.
+- **Distributed Systems** — scalability, fault tolerance, service communication
+- **Kubernetes** — orchestration and deployment strategies (building on Docker)
+- **Advanced Backend Engineering** — async programming, caching, message queues, API optimization
+- **LLM Engineering & Agentic AI** — multi-agent orchestration, tool calling, memory, autonomous workflows
+- **Deep Learning Mathematics** — neural networks and optimizers from first principles
+- **System Design** — scalable APIs, databases, and cloud-native services
 
 ---
 
-## Connect With Me
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-00C9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-website-eight-omega-98.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jami-ahad-a12977330)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jamiahadarain@gmail.com)
-
-</div>
-
----
-
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -99,28 +85,7 @@ Built a modular, object-oriented deep learning framework completely from scratch
 
 <img src="https://streak-stats.demolab.com?user=Jami436&theme=tokyonight&hide_border=true" width="60%"/>
 
-</div>
-
-<!--
-NOTE ON THE ACTIVITY GRAPH:
-github-readme-activity-graph.vercel.app is a free, shared public deployment
-and it gets rate-limited / goes down fairly often — that's almost certainly
-why it looked "broken" on your profile, not a typo in your URL. Options:
-
-1. Keep it as-is below and accept it may occasionally fail to load (most
-   common approach, it usually comes back within a few hours).
-2. Fork https://github.com/Ashutosh00710/github-readme-activity-graph and
-   deploy your own free instance on Vercel, then point the src at your own
-   domain — this fixes it permanently.
--->
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jami436&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-
-</div>
-
----
-
-<div align="center">
 
 </div>
 
