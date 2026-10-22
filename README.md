@@ -18,7 +18,7 @@
 
 ## About Me
 
-I'm a developer focused on **backend engineering, AI systems, and machine learning**. I enjoy building practical software, exploring intelligent automation, and understanding the engineering and mathematics behind the tools I use.
+I'm a developer focused on **backend engineering, AI systems, and machine learning**. I enjoy building practical software, exploring intelligent automation, and understanding the engineering and mathematics behind the tools I use..
 
 - **Backend:** APIs, data processing, and maintainable software architecture.
 - **AI Engineering:** Agentic workflows, multi-agent systems, and ML-powered applications.
